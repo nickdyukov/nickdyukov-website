@@ -1,2 +1,3 @@
-import "/js/themes.js";
-import "/js/languages.js";
+// ====== Main JavaScript imports ======
+import "/js/ui.js";
+import "/js/translations.js";
