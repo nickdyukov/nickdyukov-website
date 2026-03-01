@@ -2,7 +2,7 @@
 @keyframes fade-in {
   0% {
     opacity: 0;
-    transform: translateX(290px);
+    transform: translateX(20rem);
     filter: blur(1rem);
   }
   100% {
@@ -12,12 +12,14 @@
   }
 }
 
-main, footer {
+main section, footer {
+  animation-fill-mode: both;
   animation: fade-in 1.2s ease forwards;
   will-change: transform, opacity, filter;
 }
 
-@keyframes language-menu-slide {
+/* ====== Language menu animation ====== */
+@keyframes lang-menu-slide {
   0% {
     opacity: 0;
     transform: translateX(10rem);
@@ -30,7 +32,7 @@ main, footer {
   }
 }
 
-.language-menu.open {
-  animation: language-menu-slide 0.8s ease forwards;
+.lang-switch.open {
+  animation: lang-menu-slide 0.8s ease forwards;
   will-change: opacity, transform, filter;
 }
