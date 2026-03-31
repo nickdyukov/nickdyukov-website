@@ -1,0 +1,20 @@
+.intro-text,
+.about,
+.social {
+  width: 88%;
+  background: var(--color-bg);
+  border: var(--border);
+  border-radius: var(--border-radius);
+  padding: var(--padding-block);
+  transition: var(--transition);
+}
+
+.intro-text { max-width: 35rem; }
+.about { max-width: 50rem; }
+.social { max-width: 25rem; }
+
+.intro-text:hover,
+.about:hover,
+.social:hover {
+  transform: translateY(-1px) scale(1.01);
+}

@@ -1,0 +1,10 @@
+/* ====== Social icons ====== */
+.social img {
+  display: inline-block;
+  width: 1.6rem;
+  height: 1.6rem;
+  vertical-align: text-bottom;
+  position: relative;
+  top: 0px;
+  left: 4px;
+}

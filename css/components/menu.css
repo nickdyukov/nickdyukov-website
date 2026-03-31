@@ -1,0 +1,31 @@
+/* ====== Language menu & Mobile menu ====== */
+.lang-menu, .mobile-menu {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 4rem;
+  gap: 1rem;
+  background: #000;
+  padding: var(--padding-block);
+  border-radius: 0.5rem;
+  border: 3px solid #fff;
+  transform: translateX(-120%);
+  transition: var(--transition);
+}
+
+.lang-menu.open,.mobile-menu.open { transform: translateX(-5%); }
+
+/* ====== Mobile menu ====== */
+.mobile-menu-btn { 
+  display: none;
+  width: 2.2rem;
+  height: 2.2rem;
+}
+
+.mobile-menu button { align-self: flex-start; }
+
+@media (max-width: 425px) {
+  .lang-menu-btn,
+  .theme-toggle { display: none; }
+  .mobile-menu-btn { display: block; }
+}
