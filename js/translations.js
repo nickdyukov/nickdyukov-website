@@ -4,17 +4,17 @@ const translations = {
     theme_toggle: "Theme toggle",
     lang_menu_btn: "Languages",
 
-    title: "Nikita Dyukov",
-    intro_primary: "Fan of clean eating, sports and ice baths.",
-    intro_secondary: "Learning English, Spanish, HTML, CSS, JavaScript.",
+    title: "Nick Dyukov",
+    intro_primary: "Fan of clean eating, gym, activity, and ice baths.",
+    intro_secondary: "Now I’m learning English, Spanish, Linux, Python, C, and ethical hacking.",
 
     about_heading: "About me:",
     about_birth: "I was born on May 6, 2011, in <a href='https://en.wikipedia.org/wiki/Yekaterinburg' target='_blank' rel='noopener noreferrer' title='Yekaterinburg city on Wikipedia'>Yekaterinburg</a>, Russia.",
     about_focus: "Main focus in life: Self-development and Freedom.",
-    about_diet: "I avoid red meat, poultry, alcohol, nicotine, and other drugs, <a href='https://en.wikipedia.org/wiki/Gluten' target='_blank' rel='noopener noreferrer' title='Information about gluten on Wikipedia'>gluten</a>, sugar, seed oils, and caffeine. I prefer eating twice a day within a 6-hour window (18/6).",
+    about_diet: "I avoid red meat, alcohol, nicotine, and other drugs, artificial sugar, and seed oils. I prefer eating twice a day within a 6-hour window (18/6).",
 
     contact_methods_heading: "Contact Methods:",
-    social_media_heading: "Social media:",
+    social_media_heading: "Social Media:",
 
     footer_copyright: "© 2026 NickDyukov. All rights reserved.",
 
@@ -22,20 +22,20 @@ const translations = {
     error_home_link: "Go back home"
   },
   ru: {
-    theme_toggle: "Сменить тему",
+    theme_toggle: "Переключение Темы",
     lang_menu_btn: "Языки",
 
-    title: "Никита Дюков",
-    intro_primary: "Поклонник чистого питания, спорта и ледяных ванн.",
-    intro_secondary: "Учу английский, испанский, HTML, CSS, JavaScript.",
+    title: "Ник Дюков",
+    intro_primary: "Фанат чистого питания, спортзала, активности и ледяных ванн.",
+    intro_secondary: "Сейчас я изучаю английский, испанский, Linux, Python, C и этичный хакинг.",
 
     about_heading: "Обо мне:",
     about_birth: "Я родился 6 мая 2011 года в <a href='https://ru.wikipedia.org/wiki/Екатеринбург' target='_blank' rel='noopener noreferrer' title='Город Екатеринбург на Википедии'>Екатеринбурге</a>, Россия.",
     about_focus: "Главное в жизни: Саморазвитие и Свобода.",
-    about_diet: "Я избегаю красного мяса, мяса птицы, алкоголя, никотина и других наркотиков, <a href='https://ru.wikipedia.org/wiki/Клейковина' target='_blank' rel='noopener noreferrer' title='Информация о глютене на Википедии'>глютена</a>, сахара, растительных масел и кофеина. Я предпочитаю есть два раза в день в течение 6 часов (18/6).",
+    about_diet: "Я избегаю красного мяса, алкоголя, никотина и других наркотиков, искусственного сахара и растительных масел. Я предпочитаю есть два раза в день в течение 6 часов (18/6).",
 
     contact_methods_heading: "Контакты:",
-    social_media_heading: "Социальные сети:",
+    social_media_heading: "Социальные Сети:",
 
     footer_copyright: "© 2026 NickDyukov. Все права защищены.",
 
@@ -43,20 +43,20 @@ const translations = {
     error_home_link: "Вернуться на главную"
   },
   es: {
-    theme_toggle: "Cambiar tema",
+    theme_toggle: "Cambiar Tema",
     lang_menu_btn: "Idiomas",
 
-    title: "Nikita Dyukov",
-    intro_primary: "Apasionado de la alimentación saludable, el deporte y los baños de hielo.",
-    intro_secondary: "Aprendiendo inglés, español, HTML, CSS, JavaScript.",
+    title: "Nick Dyukov",
+    intro_primary: "Fan de la alimentación limpia, el gimnasio, la actividad y los baños de hielo.",
+    intro_secondary: "Ahora estoy aprendiendo English, Spanish, Linux, Python, C y hacking ético.",
 
     about_heading: "Sobre mí:",
     about_birth: "Nací el 6 de mayo de 2011 en <a href='https://es.wikipedia.org/wiki/Ekaterimburgo' target='_blank' rel='noopener noreferrer' title='Ciudad de Ekaterimburgo en Wikipedia'>Ekaterimburgo</a>, Rusia.",
     about_focus: "Enfoque principal en la vida: Desarrollo personal y Libertad.",
-    about_diet: "Evito la carne roja, las aves, el alcohol, la nicotina y otras drogas, el <a href='https://es.wikipedia.org/wiki/Gluten' target='_blank' rel='noopener noreferrer' title='Información sobre el gluten en Wikipedia'>gluten</a>, el azúcar, los aceites vegetales y la cafeína. Prefiero comer dos veces al día dentro de una ventana de 6 horas (18/6).",
+    about_diet: "Evito la carne roja, el alcohol, la nicotina y otras drogas, el azúcar artificial y los aceites vegetales. Prefiero comer dos veces al día dentro de una ventana de 6 horas (18/6).",
 
-    contact_methods_heading: "Métodos de contacto:",
-    social_media_heading: "Redes sociales:",
+    contact_methods_heading: "Métodos de Contacto:",
+    social_media_heading: "Redes Sociales:",
 
     footer_copyright: "© 2026 NickDyukov. Todos los derechos reservados.",
 
